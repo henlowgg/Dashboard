@@ -9,12 +9,12 @@ const Orders = [
         productName: 'Link Medical Bills',
         productNumber: '00002',
         paymentStatus: 'Due',
-        status: 'Pending'
+        status: 'Declined'
     },
     {
         productName: 'Loml Medical Bills',
         productNumber: '00003',
         paymentStatus: 'Due',
-        status: 'Pending'
+        status: 'Active'
     },
 ]
